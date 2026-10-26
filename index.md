@@ -11,7 +11,7 @@ Finch is a good app. 768K people gave it an average of 4.9 stars on the App Stor
 
 ## Glissa, if the habit you want to change is a person
 
-Finch rewards any small goal. Glissa works on 11 named patterns: people pleasing, overthinking, anxious attachment, hyper-independence, not saying what you think and 6 more. A 30-second check-in each day shows which one leads for you, and each week you get one small dare for it. The first go to a stranger or a text. Family comes later. There is no pet, and it is iPhone only.
+Finch rewards any small goal. Glissa works on 11 named patterns: people pleasing, anxious attachment, hyper-independence, not saying what you think, downplaying and 6 more. A 30-second check-in each day shows which one leads for you, and each week you get one small dare for it. The first go to a stranger or a text. Family comes later. There is no pet, and it is iPhone only.
 
 Free quizzes for each pattern: [glissa.io/quiz](https://glissa.io/quiz).
 
