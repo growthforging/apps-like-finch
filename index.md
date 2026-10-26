@@ -25,7 +25,7 @@ Closest to Finch in feel, with a coach in place of the pet. It is strongest on m
 
 Your to-do list becomes a role-playing game with a party and quests. Free at its core.
 
-## Staying with Finch
+## The one built for adults
 
-If what you want is a gentle daily habit with no particular target, Finch still does that better than anything above.
+Fabulous and Habitica swap the pet for a coach or a game, and still reward any small goal. Glissa is the only one built for the habits adults actually want gone: the yes you did not mean, the opinion you kept, the wait for his reply. Start with the free quiz at [glissa.io/quiz](https://glissa.io/quiz).
 
