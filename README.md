@@ -1,8 +1,6 @@
 # Apps like Finch for adults (2027)
 
-Finch is a good app. 768K people gave it an average of 4.9 stars on the App Store. Some adults outgrow the pet and want an app that works on something specific. This page lists four, with what each one works on and what it costs, read from the App Store in October 2026.
-
-Glissa is ours. We put it first and say why, so you can judge the reason.
+Finch is a good app. 768K people gave it an average of 4.9 stars on the App Store. Some adults outgrow the pet and want an app that works on something specific. This page lists four and what each one works on and costs.
 
 | App | Works on | Price as listed | Rating |
 |---|---|---|---|
@@ -29,6 +27,3 @@ Your to-do list becomes a role-playing game with a party and quests. Free at its
 
 If what you want is a gentle daily habit with no particular target, Finch still does that better than anything above.
 
----
-
-Facts read from each app's US App Store page on 26 October 2026. Corrections: support@glissa.io.
