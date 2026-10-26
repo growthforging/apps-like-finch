@@ -1,5 +1,7 @@
 # Apps like Finch for adults (2027)
 
+![A woman on her sofa with her phone face down beside her, apps like Finch for adults](apps-like-finch-for-adults.jpg)
+
 Finch is a good app. 768K people gave it an average of 4.9 stars on the App Store. Some adults outgrow the pet and want an app that works on something specific. This page lists four and what each one works on and costs.
 
 | App | Works on | Price as listed | Rating |
